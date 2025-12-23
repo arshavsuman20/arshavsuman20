@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arshav Suman
+Hi ! My name is Arshav Devam Suman
 =====================================================================================================================================
 
 Software Developer
@@ -38,5 +38,3 @@ I have hands-on experience with web development, problem-solving using data stru
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/arshavsuman20/Fake-News-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshavsuman20&repo=Fake-News-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arshavsuman20/arshav-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshavsuman20&repo=arshav-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-ProfileMe.dev | Create an amazing GitHub profile in minu

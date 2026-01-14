@@ -9,7 +9,7 @@ I’m a passionate software developer based in India, with a strong interest in 
 I have hands-on experience with web development, problem-solving using data structures & algorithms, and building projects that strengthen both frontend and backend fundamentals. I’m always eager to learn new technologies, improve my skills, and take on challenging problems that help me grow as a developer.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://arshavs-portfolio.vercel.app/](http://https://arshavs-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [https://arshavs-portfolio.vercel.app/](https://arshavs-portfolio.vercel.app/)
 * ✉️  You can contact me at [arshavsuman@gmail.com](mailto:arshavsuman@gmail.com)
 * 🧠  I'm currently learning Data Structures and Algorithms
 * 👥  I'm looking to collaborate on Interesting and impactful projects

@@ -1,39 +1,89 @@
 <h1 align="center">Hi, I'm Arshav Devam Suman</h1>
-<h3 align="center">Software Developer | DSA Enthusiast</h3>
+<h3 align="center">Software Developer | DSA Learner | Building Scalable Solutions</h3>
+
+<p align="center">
+  <a href="https://github.com/arshavsuman20">
+    <img src="https://komarev.com/ghpvc/?username=arshavsuman20&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
 ### About Me
-I’m a passionate software developer based in India 🇮🇳, focused on building efficient, scalable, and user-friendly applications.
-
-- Based in India  
-- Portfolio: https://arshavs-portfolio.vercel.app/ 
+- Based in India 🇮🇳  
+- Portfolio: https://arshavs-portfolio.vercel.app/  
 - Email: arshavsuman@gmail.com  
-- Currently learning: **Data Structures & Algorithms**  
+- Currently learning **Data Structures & Algorithms**  
 - Open to collaboration on impactful projects  
+
+---
+
+### DSA Progress
+- Solving problems on **LeetCode**
+- Focus: Arrays, Graphs, Trees, Dynamic Programming  
+- LeetCode: https://leetcode.com/arshavsuman
+- DSA Notes: https://github.com/arshavsuman20/DSA-notes
+
+---
+
+### Featured Projects
+
+**Fake-News-Detection**  
+- Developed an NLP-based fake news classifier using TF-IDF feature extraction and Logistic Regression, achieving 97.9%
+test accuracy.  
+- Optimized model training and vectorization pipeline for efficient inference and scalable deployment.  
+- [GitHub](https://github.com/arshavsuman20/Fake-News-Detection-main) | [Live](https://arshav-fake-news-detector.streamlit.app/)
+
+**Medical-Image Enhancement-App**  
+- Engineered a GAN-based image enhancement system achieving 42% noise reduction on test samples.  
+- Designed and trained a Generator–Discriminator architecture with optimized preprocessing for stable training and
+improved output quality.
+- [GitHub](https://github.com/arshavsuman20/Medical-Enhancement-App) | [Live](https://medical-enhancement-app-vadvkn9rrneucqypm2azwm.streamlit.app/)
 
 ---
 
 ### Tech Stack
 
+#### Languages
 <p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python" />
+</p>
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50"/></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50"/></a>&nbsp;
-<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50"/></a>&nbsp;
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50"/></a>&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="50"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50"/></a>&nbsp;
-<a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50"/></a>&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50"/></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50"/></a>&nbsp;
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50"/></a>&nbsp;
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="50"/></a>&nbsp;
-<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="50"/></a>&nbsp;
-<a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="50"/></a>&nbsp;
-<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="50"/></a>&nbsp;
-<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="50"/></a>
+#### Web Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
 
+#### Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+#### Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,vscode" />
+</p>
+
+#### AI / ML
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arshavsuman20&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshavsuman20&theme=tokyonight" />
+</p>
+
+---
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshavsuman20&theme=tokyo-night" />
 </p>
 
 ---
@@ -41,10 +91,10 @@ I’m a passionate software developer based in India 🇮🇳, focused on buildi
 ### Connect With Me
 
 <p align="center">
-<a href="https://www.github.com/arshavsuman20">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40"/>
-</a>&nbsp;&nbsp;
+<a href="https://github.com/arshavsuman20">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
 <a href="https://www.linkedin.com/in/arshav-suman-711169284">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 </p>

@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Arshav Devam Suman</h1>
-<h3 align="center">🚀 Software Developer | DSA Enthusiast</h3>
+<h1 align="center">Hi, I'm Arshav Devam Suman</h1>
+<h3 align="center">Software Developer | DSA Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I’m a passionate software developer based in India 🇮🇳, focused on building efficient, scalable, and user-friendly applications.
 
-- 🌍 Based in India  
-- 🖥️ Portfolio: https://arshavs-portfolio.vercel.app/ 
-- ✉️ Email: arshavsuman@gmail.com  
-- 🧠 Currently learning: **Data Structures & Algorithms**  
-- 🤝 Open to collaboration on impactful projects  
+- Based in India  
+- Portfolio: https://arshavs-portfolio.vercel.app/ 
+- Email: arshavsuman@gmail.com  
+- Currently learning: **Data Structures & Algorithms**  
+- Open to collaboration on impactful projects  
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
 
@@ -38,7 +38,7 @@ I’m a passionate software developer based in India 🇮🇳, focused on buildi
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
 <a href="https://www.github.com/arshavsuman20">

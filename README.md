@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arshav Devam Suman</h1>
-<h3 align="center">Software Developer | DSA Learner | Building Scalable Solutions</h3>
+<h3 align="center">Software Developer | DSA Learner | Enthusiastic Coder</h3>
 
 ---
 

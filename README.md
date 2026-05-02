@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Arshav Devam Suman</h1>
 <h3 align="center">Software Developer | DSA Learner | Building Scalable Solutions</h3>
 
-<p align="center">
-  <a href="https://github.com/arshavsuman20">
-    <img src="https://komarev.com/ghpvc/?username=arshavsuman20&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ### About Me
@@ -26,21 +20,6 @@
 
 ---
 
-### Featured Projects
-
-**Fake-News-Detection**  
-- Developed an NLP-based fake news classifier using TF-IDF feature extraction and Logistic Regression, achieving 97.9%
-test accuracy.  
-- Optimized model training and vectorization pipeline for efficient inference and scalable deployment.  
-- [GitHub](https://github.com/arshavsuman20/Fake-News-Detection-main) | [Live](https://arshav-fake-news-detector.streamlit.app/)
-
-**Medical-Image Enhancement-App**  
-- Engineered a GAN-based image enhancement system achieving 42% noise reduction on test samples.  
-- Designed and trained a Generator–Discriminator architecture with optimized preprocessing for stable training and
-improved output quality.
-- [GitHub](https://github.com/arshavsuman20/Medical-Enhancement-App) | [Live](https://medical-enhancement-app-vadvkn9rrneucqypm2azwm.streamlit.app/)
-
----
 
 ### Tech Stack
 

@@ -9,7 +9,7 @@
 - Email: arshavsuman@gmail.com  
 - Currently learning **Data Structures & Algorithms**  
 - Open to collaboration on impactful projects  
-
+- Resume: https://github.com/arshavsuman20/Arshav-Devam-Suman-Resume
 ---
 
 ### DSA Progress

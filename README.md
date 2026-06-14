@@ -5,7 +5,6 @@
 
 ### About Me
 - Based in India 🇮🇳  
-- Portfolio: https://arshavs-portfolio.vercel.app/  
 - Email: arshavsuman@gmail.com  
 - Currently learning **Data Structures & Algorithms**  
 - Open to collaboration on impactful projects  
